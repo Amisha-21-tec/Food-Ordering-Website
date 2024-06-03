@@ -1,0 +1,62 @@
+.topnav {
+    overflow: hidden;
+    background-color: rgb(208, 208, 228);
+  }
+  .topnav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(146, 204, 199);
+    color: black;
+  }
+  .container {
+      padding: 16px;
+      font-size: large;
+      margin-left: 500px;
+    }
+  
+  .container1 {
+      padding: 5px;
+      font-size: large;
+      margin-left: 500px;
+    }
+  
+  input[type=text] {
+      width: 300px;
+      padding: 15px;
+      margin: 5px 0 22px 0;
+      display: inline-block;
+      border:none ;
+      background: #f1f1f1;
+    }
+
+    input[type=text1] {
+        width: 300px;
+        height: 200px;
+        padding: 15px;
+        margin: 5px 0 22px 0;
+        display:inline-block;
+        border:none ;
+        background: #f1f1f1;
+      }
+
+    .butt {
+        width: 300px;
+        font-size: large;
+        background-color: #2b5518;
+        
+        padding: 10px 10px;
+        margin: 10px 580px;
+        border: none;
+        cursor: pointer;
+        
+        opacity: 0.9;
+      }

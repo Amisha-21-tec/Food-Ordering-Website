@@ -1,0 +1,103 @@
+/* 1st page */
+* {box-sizing:border-box;}
+
+/* Add padding to containers */
+.container {
+  padding: 16px; text-align: left;width: 400px;height: 100px;
+}
+
+/* Full-width input fields */
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    font-size: 16px;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button 
+.pay {
+
+    background-color: #04a2aa;
+    color: white;
+    padding: 1px 20px;
+    margin: 300px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    } */
+
+  /*.pay2{
+    font-size: large;
+    background-color:#04a2aa;
+    color: white;
+    padding: 10px 20px;
+    margin: 550px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    }*/
+    
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: navy;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+a{
+    margin: 720px;padding: 0px 0px;font: optional; font-size: Xx-large;
+}
+
+
+#myButton{
+  font-size: 20px;
+  position: absolute;
+  top: 920px;
+  padding: 15px;
+  left: 20px;
+  padding-left: 17px;
+  padding-right: 30px;
+  background-color: #04a2aa;
+  border: none;
+  color: antiquewhite;
+  font-weight: bold;
+
+}
+
+#myButton1{
+  font-size: 20px;
+  position: absolute;
+  top: 920px;
+  padding: 15px;
+  left: 250px;
+  padding-left: 17px;
+  padding-right: 30px;
+  background-color: #04a2aa;
+  border: none;
+  color: antiquewhite;
+  font-weight: bold;
+
+}

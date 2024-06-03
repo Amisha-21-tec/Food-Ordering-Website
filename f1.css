@@ -1,0 +1,29 @@
+#view_menu{
+    font-size: 20px;
+    position: absolute;
+    top: 500px;
+    padding: 15px;
+    left: 187px;
+    padding-left: 37px;
+    padding-right: 30px;
+    background-color: #e1272d;
+    border: none;
+    color: antiquewhite;
+    font-weight: bold;
+
+}
+
+#myButton{
+    font-size: 20px;
+    position: absolute;
+    top: 500px;
+    padding: 15px;
+    left: 187px;
+    padding-left: 37px;
+    padding-right: 30px;
+    background-color: #e1272d;
+    border: none;
+    color: antiquewhite;
+    font-weight: bold;
+
+}

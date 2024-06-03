@@ -1,0 +1,48 @@
+.imfo{
+    padding: 0.5px; text-align: left;width: 400px;height: 100px;
+}
+
+  input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    background: #ffffff;
+    font-size: 16px;
+    }
+
+   
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+  input[type=text1] {
+    width: 400px;
+    height: 120px;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    font-size: 16px;
+    background: #ffffff;
+  }
+  
+  input[type=text1]:focus, input[type=text]:focus {
+    background-color:  #ddd;
+    outline: none;
+  }
+
+  .butt {
+    width: 435px;
+    font-size: large;
+    background-color: #f53e3e;
+    
+    padding: 15px 200px;
+    margin: 80px 10px;
+    border: none;
+    cursor: pointer;
+    
+    opacity: 0.9;
+  }
+  
+  
